@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Live tokens per second",
+    "description": "Shows the decoding speed of the running model request above the composer, and a history popup grouped by model and provider."
+  }
+}

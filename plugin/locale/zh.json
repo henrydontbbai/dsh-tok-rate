@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "实时 tok/s",
+    "description": "在输入框上方实时显示当前模型请求的每秒 token 数，并可按「模型 + provider」分组查看历史统计。"
+  }
+}

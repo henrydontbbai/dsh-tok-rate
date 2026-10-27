@@ -1,0 +1,8 @@
+# 交付档案目录（发布报告等，不属于产品内容）
+deliverables/
+
+# OS junk
+Thumbs.db
+desktop.ini
+*.tmp
+*.log

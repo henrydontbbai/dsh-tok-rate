@@ -1,0 +1,5 @@
+# dsh-tok-rate bundle: live tokens/second readout above the composer.
+# The row resolves this package by name through the profile's node_modules.
+- insert:
+    - id: dsh-tok-rate
+      name: dsh-tok-rate
